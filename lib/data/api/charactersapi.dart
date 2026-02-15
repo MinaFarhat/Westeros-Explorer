@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:gameofthrones/constants/strings.dart';
+import 'package:westerosexplorer/constants/strings.dart';
 
 class CharactersApi{
   late Dio dio;

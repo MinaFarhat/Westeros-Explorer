@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gameofthrones/app_router.dart';
+import 'package:westerosexplorer/app_router.dart';
 
 void main() {
   runApp(GameOfThrones(appRouter: AppRouter()));

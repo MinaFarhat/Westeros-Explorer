@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:gameofthrones/constants/myColors.dart';
-import 'package:gameofthrones/data/models/Character.dart';
+import 'package:westerosexplorer/constants/mycolors.dart';
+import 'package:westerosexplorer/data/models/character.dart';
 class CharacterDetailsScreen extends StatelessWidget {
 final Character character;
 

@@ -1,6 +1,5 @@
-import 'package:gameofthrones/data/api/CharactersApi.dart';
-import 'package:gameofthrones/data/models/Character.dart';
-
+import 'package:westerosexplorer/data/api/charactersapi.dart';
+import 'package:westerosexplorer/data/models/character.dart';
 class CharactersRepositry {
   final CharactersApi charactersApi;
 

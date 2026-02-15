@@ -1,12 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_offline/flutter_offline.dart';
-import 'package:gameofthrones/business_logic/cubit/characters_cubit.dart';
-import 'package:gameofthrones/constants/myColors.dart';
-import 'package:gameofthrones/data/models/Character.dart';
-import 'package:gameofthrones/presentation/widgets/character_item.dart';
-
+import 'package:westerosexplorer/business_logic/cubit/characters_cubit.dart';
+import 'package:westerosexplorer/constants/mycolors.dart';
+import 'package:westerosexplorer/data/models/character.dart';
+import 'package:westerosexplorer/presentation/widgets/character_item.dart';
 class CharactersScreen extends StatefulWidget {
+  const CharactersScreen({super.key});
+
   @override
   State<CharactersScreen> createState() => _CharactersScreenState();
 }

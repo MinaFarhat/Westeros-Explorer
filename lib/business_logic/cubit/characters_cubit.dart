@@ -1,7 +1,7 @@
 import 'package:bloc/bloc.dart';
-import 'package:gameofthrones/data/models/Character.dart';
-import 'package:gameofthrones/data/repository/characters_repository.dart';
 import 'package:meta/meta.dart';
+import 'package:westerosexplorer/data/models/character.dart';
+import 'package:westerosexplorer/data/repository/characters_repository.dart';
 
 
 part 'characters_state.dart';

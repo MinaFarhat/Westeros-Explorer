@@ -1,16 +1,28 @@
-# gameofthrones
+# Westeros Explorer
 
-A new Flutter project.
+A Flutter application inspired by "Game of Thrones" for exploring images, episodes, and character details.
+
+## Description
+
+Westeros Explorer is an interactive application built with Flutter.  
+It allows users to:  
+- Browse images and details of characters, houses, and episodes from Game of Thrones.  
+- Search images by similarity, color, size, or date.  
+- Crop and save images locally.
+
+This project was developed to learn Flutter UI design, image processing, and search functionality.
+
+## Features
+
+- User-friendly interface to browse and explore Game of Thrones content  
+- Search by image similarity, color, size, or date  
+- Crop and save images  
+- Responsive Flutter UI
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a copy of the project up and running locally:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MinaFarhat/Westeros-Explorer.git

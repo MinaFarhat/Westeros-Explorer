@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:gameofthrones/constants/myColors.dart';
-import 'package:gameofthrones/constants/strings.dart';
-import 'package:gameofthrones/data/models/Character.dart';
-
+import 'package:westerosexplorer/constants/mycolors.dart';
+import 'package:westerosexplorer/constants/strings.dart';
+import 'package:westerosexplorer/data/models/character.dart';
 class CharacterItem extends StatelessWidget {
   final Character character;
   const CharacterItem({Key? key, required this.character}) : super(key: key);

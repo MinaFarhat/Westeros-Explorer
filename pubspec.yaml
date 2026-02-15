@@ -1,4 +1,4 @@
-name: gameofthrones
+name: westerosexplorer
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -27,12 +27,14 @@ environment:
 # the latest version available on pub.dev. To see which dependencies have newer
 # versions available, run `flutter pub outdated`.
 dependencies:
+  bloc: ^8.1.4
   cupertino_icons: ^1.0.2
   dio: ^4.0.6
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.1
   flutter_offline: ^2.1.0
+  meta: ^1.17.0
 
 dev_dependencies:
   flutter_lints: ^2.0.0
